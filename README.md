@@ -1,5 +1,7 @@
 ### twitter clone app (graphql react postgresql prisma)
 
+https://www.youtube.com/watch?v=DTsLB5jYrME&list=PLNkV3A5yDcdRh4l1I4hjKAzuvFW9W_aCZ&index=5
+
 2021-2-18
 
 ```
