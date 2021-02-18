@@ -24,3 +24,5 @@ connect to postgress: postgresql://USER:PASSWORD@HOST:PORT/DATABASE
 
 - npx prisma generate
 - generate a new migration: npx prisma migrate dev --preview-feature, then name first.
+
+![](2021-02-18-14-37-33.png)
